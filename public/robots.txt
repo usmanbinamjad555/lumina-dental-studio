@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin
 
-Sitemap: https://lumina-dental-studio.vercel.app/sitemap.xml
+Sitemap: https://lumina-dental-studio-black.vercel.app/sitemap.xml

@@ -10,7 +10,7 @@ export const clinic = {
   city: 'Austin, TX 78701',
   mapsHref: 'https://www.google.com/maps/search/?api=1&query=1200+Congress+Ave+Austin+TX+78701',
   mapsEmbed: 'https://www.google.com/maps?q=1200+Congress+Ave+Austin+TX+78701&output=embed',
-  siteUrl: 'https://lumina-dental-studio.vercel.app',
+  siteUrl: 'https://lumina-dental-studio-black.vercel.app',
   hours: [
     { day: 'Monday – Thursday', time: '8:00 am – 5:30 pm' },
     { day: 'Friday', time: '8:00 am – 3:00 pm' },
